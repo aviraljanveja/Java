@@ -1,2 +1,1 @@
-# JavaLearn
-Programs in JAVA. 
+# Programs in Java.
