@@ -21,7 +21,7 @@ public class Do_While_Menu {
 				System.out.println(" 5. for\n");
 				System.out.println("Choose one:");
 				choice = (char) System.in.read(); // system.in.read is one of JAVA's console IO functions.
-				// It reads characters from from the standard input (returned as integers, which is why
+				// It reads characters from from the standard input (returned as integers), which is why
 				// the returned value is cast to char.
 			} while(choice < '1' || choice > '5'); // The do-while is used to check if the user has entered
 			// a valid choice, if not - then the user is re-prompted.
