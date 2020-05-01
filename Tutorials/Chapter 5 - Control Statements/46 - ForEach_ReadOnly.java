@@ -1,6 +1,6 @@
 /**
  * @author AviralJanveja
- *
+ * The iteration variable of the for-each loop is essentially read only.
  */
 public class ForEach_ReadOnly {
 
