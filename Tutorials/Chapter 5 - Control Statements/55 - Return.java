@@ -12,7 +12,7 @@ public class Return {
 				System.out.println("This won't execute.");
 	}
 	
-	/*Note: The if(t) ststement if necessary. Without it, the Java compiler would flag an "unreachable code" error because
+	/*Note: The if(t) statement is necessary. Without it, the Java compiler would flag an "unreachable code" error because
 	 * the complier would know that the the last println() statement would never be executed.
 	 * To prevent this error, the if statement is used here to trick the compiler for the sake of this demonstration.
 	*/
