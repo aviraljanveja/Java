@@ -10,7 +10,7 @@ public class Continue_Label {
 			for (int j=0; j<10; j++) {
 				if (j > i) {
 					System.out.println();
-					continue outer; // The continue statement in this example  terminates the the loop counting j, 
+					continue outer; // The continue statement in this example terminates the the loop counting j, 
 					// and continues with the next iteration of the loop counting i.
 				}
 				System.out.print(" " + (i*j));
